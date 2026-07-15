@@ -1,2 +1,13 @@
 # AI-Learning-Journey
-My journey to learn AI, Python, RAG and Agentic AI
+
+## About Me
+
+I am learning
+
+- Python Literacy
+- -Github
+- RAG
+- AI Agents
+- Azure AI Foundry
+
+- STarted: July 2026
